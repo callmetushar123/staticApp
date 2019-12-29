@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+A new Flutter application. It displays and image using various widgets.
 
 ## Getting Started
 
